@@ -10,3 +10,6 @@
 - logging & transcript
 - jobs & workflow
 - PowerShell 7
+
+- [Technology Examples](./powershell_examples.md)
+

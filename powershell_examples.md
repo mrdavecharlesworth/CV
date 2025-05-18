@@ -4,6 +4,38 @@ This page highlights some real-world PowerShell work in large-scale enterprise e
 
 ---
 
+## ☁ Azure
+
+### VM & General
+- Multi-tenant asset discovery (output to DB)
+- Tagging remediation and daily lifecycle automation
+
+### Key Vault
+- Network lockdown and secure secret handling
+
+### Storage
+- Scripted upload/unlock of files, container provisioning
+
+### Backup & DR
+- Automated backup policy creation
+- Snapshot + restore orchestration
+- DR testing workflows
+
+### Image Gallery
+- Full automation of gallery + versioning
+
+### Cost Management
+- VM/disk rightsizing via script
+- Analysis using built-in PowerShell module
+
+### Azure Policy
+- Policy/initiative deployment across tenants
+- Custom definition scripting
+
+
+
+---
+
 ## 🏗 Infrastructure
 
 ### WSUS
@@ -52,35 +84,7 @@ This page highlights some real-world PowerShell work in large-scale enterprise e
 
 ---
 
-## ☁ Azure
 
-### VM & General
-- Multi-tenant asset discovery (output to DB)
-- Tagging remediation and daily lifecycle automation
-
-### Key Vault
-- Network lockdown and secure secret handling
-
-### Storage
-- Scripted upload/unlock of files, container provisioning
-
-### Backup & DR
-- Automated backup policy creation
-- Snapshot + restore orchestration
-- DR testing workflows
-
-### Image Gallery
-- Full automation of gallery + versioning
-
-### Cost Management
-- VM/disk rightsizing via script
-- Analysis using built-in PowerShell module
-
-### Azure Policy
-- Policy/initiative deployment across tenants
-- Custom definition scripting
-
----
 
 ## 🔐 Security
 
