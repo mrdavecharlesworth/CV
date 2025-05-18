@@ -32,8 +32,7 @@ This page highlights some real-world PowerShell work in large-scale enterprise e
 - Policy/initiative deployment across tenants
 - Custom definition scripting
 
-
-
+[← Back to Home](./README.md)
 ---
 
 ## 🏗 Infrastructure
@@ -63,6 +62,7 @@ This page highlights some real-world PowerShell work in large-scale enterprise e
 - Global DDC inventory across regions
 - Automated delivery group management and power controls
 
+[← Back to Home](./README.md)
 ---
 
 ## 💻 Endpoint Management (ConfigMgr/SCCM)
@@ -82,9 +82,9 @@ This page highlights some real-world PowerShell work in large-scale enterprise e
 - Task sequence automation (driver packs, WMI filters, step logic)
 - CI/Baseline automation via code
 
+
+[← Back to Home](./README.md)
 ---
-
-
 
 ## 🔐 Security
 
@@ -96,6 +96,7 @@ This page highlights some real-world PowerShell work in large-scale enterprise e
 ### Patching
 - Automated complex patch cycles
 - Large-scale failure identification
+[← Back to Home](./README.md)
 
 ---
 
@@ -106,3 +107,5 @@ This page highlights some real-world PowerShell work in large-scale enterprise e
 
 ### Data Gathering
 - Cross-platform data ingestion into SQL (AD, Citrix, VMWare, Workday)
+
+[← Back to Home](./README.md)
